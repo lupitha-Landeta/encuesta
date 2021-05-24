@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053893900622",
+    "project_id": "unidad3encuesta",
+    "storage_bucket": "unidad3encuesta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053893900622:android:f51de782b1da3ced48c61f",
+        "android_client_info": {
+          "package_name": "com.example.clase8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053893900622-3f5t5i012imjtiiej1j86dgqeq15kntd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFiGNNnWZHbzNNNptJgSsHU11XL2EEL_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053893900622-3f5t5i012imjtiiej1j86dgqeq15kntd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
